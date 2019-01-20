@@ -2,12 +2,12 @@
 ## Guia de Estudo - Artigos postados no Medium.
 
 ### 🚩 Sumário
-Linguagem Java
-Hibernate
-JSF
-Spring Framework
-Java EE
-REST e Java
+✔️ Linguagem Java</br>
+✔️ Hibernate</br>
+✔️ JSF</br>
+✔️ Spring Framework</br>
+✔️ Java EE</br>
+✔️ REST e Java</br>
 .
 .
 .
