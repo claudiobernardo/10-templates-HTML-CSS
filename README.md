@@ -1,2 +1,4 @@
-## Guia de Estudo Java
-Guia de Estudo com artigos postados no Medium.
+# Guia de Estudo Java
+## Guia de Estudo - Artigos postados no Medium.
+
+### 🚩 Sumário
