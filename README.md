@@ -1,7 +1,5 @@
-# Guia de Estudo Java
-## Guia de Estudo - Artigos postados no Medium.
 
-### 🚩 Sumário
+# 🚩 Sumário
 ✔️ Linguagem Java</br>
 ✔️ Hibernate</br>
 ✔️ JSF</br>
