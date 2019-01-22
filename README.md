@@ -6,8 +6,9 @@
 - Estrutura de Dados e Algoritmos</br>
 - Orientação a Objeto</br>
 - Recursos do Java</br>
-    Sockets...</br>
-    Threads...</br>
+Sockets...</br>
+Threads...</br>
+
 ❌ Hibernate</br>
 ❌ JSF</br>
 ❌ Spring Framework</br>
