@@ -1,6 +1,10 @@
 
 # 🚩 Sumário
-## ✔️ Linguagem Java</br>
+### ✔️ Linguagem Java</br>
+- Plataforma e Máquina Virtual</br>
+- Sintaxe</br>
+- 
+- 
 ❌ Hibernate</br>
 ❌ JSF</br>
 ❌ Spring Framework</br>
