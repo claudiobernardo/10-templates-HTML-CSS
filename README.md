@@ -1,7 +1,7 @@
 
 # 🚩 Sumário
 ### ✔️ Linguagem Java</br>
-- Plataforma e Máquina Virtual</br>
+- [Plataforma e Máquina Virtual](https://medium.com/@claudiobernardo/guia-de-estudo-a-plataforma-do-java-885631fe8d98)</br>
 - Sintaxe</br>
 - Estrutura de Dados e Algoritmos</br>
 - Orientação a Objeto</br>
